@@ -1,0 +1,3 @@
+Cube Rube 2D implimitation
+As I mentioned during presentation we have two projects 2D and 3D. Due to some GUI issues we will display one of algorithms on 2D. This is one of basic algorithms that solve Cube Rube. The algorithm is Brute Force. First this algorithm get sequence of movements and begin to find solution. The solution is described in SolutionFinder class. In each stap it compare all exist solution and states and begin to combine puzzle. This least long - one of disatvandages of Brute Force algorithm.
+In GUI you can see Start and Stop buttons. In Scarmble field we can input any sequence of movements and taping on Apply then Start the process will begin. The slider is for controlling speed during finding solution.
